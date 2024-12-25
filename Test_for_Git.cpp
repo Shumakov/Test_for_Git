@@ -9,4 +9,13 @@ int main() {
     std::cout << "Hello World!\n";
 
     std::cout << "From Julia!\n";
+
+    std::cout << "Hello World!\n";
+    std::cout << "Hello World!\n";
+    std::cout << "Hello World!\n";
+    std::cout << "Hello World!\n";
+    std::cout << "Hello World!\n";
+    std::cout << "Hello World!\n";
+    std::cout << "Hello World!\n";
+
 }
